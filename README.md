@@ -14,5 +14,5 @@
 [Google](https://www.google.co.jp)
 ![画像](https:www.//google.co.jp/img.jpg)
 |aa|bb|cc|
-|ddd|eee|fff|
+|:--:|:--|--:|
 |g|h|i|
